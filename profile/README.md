@@ -3,6 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=Educaty&color=orange)
 <br>
 Your tutors are here!<br><Br>
+  <img src="https://komarev.com/ghpvc/?username=educational-websites&label=Profile%20views&color=00e8c1&style=flat" alt="educational-websites">
+<br><br>
+<img src="https://avatars.githubusercontent.com/u/74092334?s=70&v=4" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/74598401?s=70&v=4" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/80135238?s=70&v=4" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/82920449?s=70&v=4" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/83082760?s=70&v=4" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/91794012?s=70&v=4" style="border-radius:50%;">
 🙋‍♀️ We are Educaty, One who make awesome tutorials on the web!<br>
 🌈 All our tutorials are open-source. You can contribute with them!<br>
 👩‍💻 All resources we use are also shared to all you!<br>
