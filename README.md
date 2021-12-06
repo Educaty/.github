@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### We are Educaty!
+![](https://komarev.com/ghpvc/?username=Educaty&color=orange)
 Your tutors are here!<br><Br>
 🙋‍♀️ We are Educaty, One who make awesome tutorials on the web!<br>
 🌈 All our tutorials are open-source. You can contribute with them!<br>
